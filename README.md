@@ -1,2 +1,2 @@
 # AplikasiLelangIkan
-Aplikasi sederhana lelang ikan menggunakan eclipse.
+Aplikasi android sederhana lelang ikan menggunakan eclipse.
